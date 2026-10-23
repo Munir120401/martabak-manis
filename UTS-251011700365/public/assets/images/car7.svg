@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400">
+<rect width="640" height="400" fill="#dfe6e9"/>
+<rect y="300" width="640" height="100" fill="#636e72"/>
+<rect y="345" width="640" height="6" fill="#f2b705" opacity=".8"/>
+<path d="M90 280 L110 215 Q120 190 150 185 L240 175 Q270 120 330 118 L420 120 Q470 125 500 175 L550 190 Q585 200 590 235 L592 280 Z" fill="#34495e" stroke="#1f2328" stroke-width="4"/>
+<path d="M262 178 Q285 138 332 136 L415 138 Q448 144 468 178 Z" fill="#b2d8e8" stroke="#1f2328" stroke-width="3"/>
+<line x1="365" y1="138" x2="365" y2="178" stroke="#1f2328" stroke-width="3"/>
+<circle cx="190" cy="285" r="48" fill="#1f2328"/><circle cx="190" cy="285" r="22" fill="#b2bec3"/>
+<circle cx="490" cy="285" r="48" fill="#1f2328"/><circle cx="490" cy="285" r="22" fill="#b2bec3"/>
+<rect x="560" y="215" width="30" height="16" rx="4" fill="#f9e79f"/>
+<text x="320" y="62" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#1f2328">HR-V</text>
+</svg>
